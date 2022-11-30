@@ -1,0 +1,30 @@
+{
+  "name": "cypress-automation-framework",
+  "version": "1.0.0",
+  "description": "Cypress Automation Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vasiliy Dobrynin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "mocha": "^10.0.0",
+    "playwright-webkit": "^1.27.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "bootstrap": "^5.2.2",
+    "install": "^0.13.0",
+    "postcss": "^8.4.17",
+    "postcss-cli": "^10.0.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "browserslist": [
+    "defaults and supports es6-module",
+    "maintained node versions"
+  ],
+  "keywords": []
+}
