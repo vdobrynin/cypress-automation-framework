@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54250e48-8262-4360-97aa-81355ec077d5" name="Changes" comment="" />
+    <list default="true" id="54250e48-8262-4360-97aa-81355ec077d5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cypress.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,8 +245,16 @@
       <workItem from="1665568936959" duration="586000" />
       <workItem from="1665709111497" duration="30000" />
       <workItem from="1669769003745" duration="398000" />
-      <workItem from="1669769499549" duration="1281000" />
+      <workItem from="1669769499549" duration="2293000" />
     </task>
+    <task id="LOCAL-00001" summary="1st">
+      <created>1669777315318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669777315318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +262,10 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.configurationType" implementationName="CypressConfigurationType" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
